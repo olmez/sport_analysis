@@ -12,7 +12,7 @@ class access_token_from_strava:
         self.payload = {
                         'client_id': "76573",
                         'client_secret': 'a7dd81bb0d2f94137806ed32e885298d34b5e77b',
-                        'refresh_token': '83cd9e923350fa5bbcb7e4d272cf6cce85527ab9',
+                        'refresh_token': '14213e4695997f385384b8a35c5d8d4039266e0d',
                         'grant_type': "refresh_token",
                         'f': 'json'
                         }
